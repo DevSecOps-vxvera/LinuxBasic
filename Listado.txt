@@ -1,0 +1,6 @@
+cat
+mouse
+turtle
+dog
+mouse
+rat

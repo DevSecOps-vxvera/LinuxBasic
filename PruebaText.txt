@@ -1,0 +1,2 @@
+This   text   divided   by    spaces
+this	text	divide	by	tabs

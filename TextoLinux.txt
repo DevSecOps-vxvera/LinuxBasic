@@ -1,0 +1,12 @@
+La historia de Linux comienza en 1991, cuando Linus Torvalds, estudiante de ciencias de la computación en la Universidad de Helsinki, inició el desarrollo de este sistema operativo: 
+Concepto
+Torvalds creó Linux como un pasatiempo y como una alternativa gratuita y open source al sistema operativo MINIX, que se basaba en Unix. 
+Primeras versiones
+La versión 0.01 de Linux se publicó el 17 de septiembre de 1991 y contenía el código inicial y la funcionalidad básica. La versión 0.02, la primera utilizable, se publicó en octubre de 1991. 
+Ganancia de importancia
+En 1992, Orest Zborowski portó el sistema de ventanas X a Linux, lo que permitió que Linux admitiera una GUI por primera vez. 
+Consolidación
+En 1998, varios fabricantes de programas para el mercado corporativo anunciaron que lanzarían versiones para Linux de sus productos. 
+Características
+Linux es un sistema operativo gratuito y open source, lo que significa que su código fuente está disponible públicamente y se puede descargar, ver, modificar y distribuir libremente. 
+El creador de Linux, Linus Torvalds, nació el 28 de diciembre de 1969 en Helsinki, Finlandia
